@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.dev-*/
+.development/
+.dev-*.json
+.release-session.json
+build/
+dist/
+*.spec
+*.db
+*.db-shm
+*.db-wal
+.vscode/

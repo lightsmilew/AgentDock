@@ -1,0 +1,756 @@
+{
+  "codex": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg",
+    "sha256": "a6f64c2670a20c03c134ae0ccf1dab4dfd817f10a41da21547f720c5c1fb6820",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://openai.com/brand/",
+    "colors": [
+      "#000000"
+    ],
+    "reference_fetch_error": "HTTP Error 403: Forbidden"
+  },
+  "claude": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claude-color.svg",
+    "sha256": "a3101f3047a119aa11825ad9369510f0c472428c8c52d420e31bc62db44a8364",
+    "variant": "original color SVG",
+    "official_reference": "https://www.anthropic.com/claude",
+    "colors": [
+      "#D97757"
+    ],
+    "official_asset_candidates": [
+      "/static/product-overview/claude-logo-lockup-dark.svg",
+      "/static/product-overview/claude-logo-lockup.svg",
+      "https://claude.com/icon.png"
+    ]
+  },
+  "harness": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/deepseek-color.svg",
+    "sha256": "deba5f98a5c1796e20fcac3149bcd7eb8a32f0bdd04d048819400b1f28bd1439",
+    "variant": "original color SVG",
+    "official_reference": "https://www.deepseek.com/",
+    "colors": [
+      "#4D6BFE"
+    ],
+    "official_asset_candidates": [
+      "/favicon.ico"
+    ]
+  },
+  "cursor": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cursor.svg",
+    "sha256": "6510b2a91d21e94ae9ea5491a4f6c3af0e9bcdc61e7d6165de7b832b54640b38",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://cursor.com/brand",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/marketing-static/apple-touch-icon-light.png",
+      "/marketing-static/favicon-light.ico",
+      "/marketing-static/favicon-light.svg",
+      "/marketing-static/favicon.svg",
+      "/marketing-static/icon-192x192-light.png",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-1.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-10.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-12.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-13.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-14.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-2.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-3.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-4.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-5.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-7.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-8.svg",
+      "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-9.svg"
+    ]
+  },
+  "gemini": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/gemini-color.svg",
+    "sha256": "8ab0a9bafec11f7e69bcb9fc4ffd8f1bc927d1ddcbbb6ff36dee5ae8b5a9d602",
+    "variant": "original color SVG",
+    "official_reference": "https://gemini.google/",
+    "colors": [
+      "#08B962",
+      "#3186FF",
+      "#F94543",
+      "#FABC12"
+    ],
+    "official_asset_candidates": [
+      "https://ssl.gstatic.com/gb/images/bar/al-icon.png"
+    ]
+  },
+  "opencode": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/opencode.svg",
+    "sha256": "d11b7f3f78ed67d47c9851a11c92a69448c46f6e91156dbd3cff43f397360a50",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://opencode.ai/",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/apple-touch-icon-v3.png",
+      "/favicon-96x96-v3.png",
+      "/favicon-v3.ico"
+    ]
+  },
+  "workbuddy": {
+    "url": "https://assets.workbuddy.cn/web/workbuddy/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/logo.svg",
+    "sha256": "c571c8a1f1a07d307ac5e1514debbc43b62a34b3231b70fa1cbf1c41e1cfeeb7",
+    "previous_recorded_sha256": "5ba3031348f54eefaf588e24540b06af09a122ea1620b5abd51ecdec299cdbcb",
+    "variant": "official color SVG; original sRGB fallback, redundant display-p3 CSS removed",
+    "official_reference": "https://www.workbuddy.cn/",
+    "colors": [
+      "#01C886",
+      "#0EC8A9",
+      "#FFE355"
+    ],
+    "official_asset_candidates": [
+      "//assets.workbuddy.cn/web/workbuddy/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/logo.svg",
+      "apple-touch-icon.png",
+      "assets/logo.svg"
+    ]
+  },
+  "codebuddy": {
+    "url": "https://download.codebuddy.cn/web/website/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/logo.svg",
+    "sha256": "0ac3b1b5ad52e10c5ef7e35aff6e8c46e8d060f388a044e0990d80490994039c",
+    "previous_recorded_sha256": "149baa45b9f9370c15f20d599afe381aa138e4fc13acf503f435c571ac93ecf5",
+    "variant": "official color SVG; original sRGB fallback, redundant display-p3 CSS removed",
+    "official_reference": "https://www.codebuddy.cn/",
+    "colors": [
+      "#32E6B9",
+      "#583ED3",
+      "#6C4DFF"
+    ],
+    "official_asset_candidates": [
+      "//download.codebuddy.cn/web/website/a5b2fb510f0e7b156f19d072fae0cd12ae1f2f19/assets/logo.svg"
+    ]
+  },
+  "cline": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cline.svg",
+    "sha256": "745b045a917a057f62d6585e9feaf42bd7b24f34915fd377d7e9cc81f9695116",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://cline.bot/",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/assets/branding/favicons/apple-touch-icon.png",
+      "/assets/branding/favicons/favicon-16x16.png",
+      "/assets/branding/favicons/favicon-256x256.png",
+      "/assets/branding/favicons/favicon-32x32.png",
+      "/assets/branding/logos/cline-icon-dark.svg",
+      "https://cline.bot/assets/branding/favicons/favicon-256x256.png"
+    ]
+  },
+  "windsurf": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/windsurf.svg",
+    "sha256": "b13ad489f0ed470b067a7f6fc4d7b0e28c9752c9545fe6c238e1d7b15cc1d0c6",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://windsurf.com/",
+    "colors": [
+      "#000000"
+    ],
+    "reference_fetch_error": "HTTP Error 404: Not Found"
+  },
+  "qwen": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/qwen-color.svg",
+    "sha256": "a158a0e3ed5b541e4f91384ece02c3acf0a0d81b7b11a46d77bafb248b09e32c",
+    "variant": "original color SVG",
+    "official_reference": "https://qwen.ai/",
+    "colors": [
+      "#082dff"
+    ],
+    "official_asset_candidates": []
+  },
+  "kimi": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kimi-color.svg",
+    "sha256": "0bdb95375d7c6e90a1850e91cd36770da2bc98fa33ec2d783f4a8fed027da85f",
+    "variant": "original color SVG",
+    "official_reference": "https://www.kimi.com/",
+    "colors": [
+      "#1783FF"
+    ],
+    "official_asset_candidates": [
+      "/favicon-dark.ico",
+      "/favicon-light.ico",
+      "/favicon.ico"
+    ]
+  },
+  "copilot": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/githubcopilot.svg",
+    "sha256": "dd2ffd596ab4df6c09a6df41b1b85d954a6a8f86690c12c7f39fe3be7d6609e6",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://github.com/features/copilot",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "https://github.com/fluidicon.png",
+      "https://github.githubassets.com/assets/universe_26-logo-566849d4d513de6c.svg",
+      "https://github.githubassets.com/favicons/favicon.png",
+      "https://github.githubassets.com/favicons/favicon.svg"
+    ]
+  },
+  "amp": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/amp-color.svg",
+    "sha256": "6df4cced9e35703d6263d65968985e8afdff68b61358daf9cc09fa16dd9b2aad",
+    "variant": "original color SVG",
+    "official_reference": "https://ampcode.com/",
+    "colors": [
+      "#F34E3F"
+    ],
+    "official_asset_candidates": [
+      "/app-icon-192.png?v=4",
+      "/app-icon.png?v=4",
+      "/app-icon.svg?v=4"
+    ]
+  },
+  "roo": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/roocode.svg",
+    "sha256": "af63e9c4c3cf842effaef9a3c560a90accf17450c01b2448483da4a9e35e03fc",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://roocode.com/",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/apple-touch-icon.png",
+      "/favicon-16x16.png",
+      "/favicon-32x32.png",
+      "/favicon.ico",
+      "/images/logo.png",
+      "/images/roo-code-logo.svg",
+      "https://roomote.dev/images/logo.png"
+    ]
+  },
+  "factory": {
+    "url": "https://factory.com/icon.svg",
+    "official_reference": "https://factory.com/",
+    "variant": "official inner SVG, redundant wrapper and filter:none CSS removed",
+    "colors": [
+      "#020202",
+      "#FAFAFA"
+    ],
+    "sha256": "52c64fc790da0e3824ab00eeb610a2d49e2f2c3462dd6c4c12552666c51e9dcd",
+    "previous_recorded_sha256": "a58423496655d62cd1f714e48cb414159921314205ca04abbf0bf8de28f6a182"
+  },
+  "openhands": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openhands-color.svg",
+    "sha256": "bd25a937147d458634203f802bb3d92a361696b3e62d9e77dd23a3682c048b02",
+    "variant": "original color SVG",
+    "official_reference": "https://openhands.dev/",
+    "colors": [
+      "#000",
+      "#FFFF8B"
+    ],
+    "official_asset_candidates": [
+      "/assets/webflow/backgrounds/openhands_logo_black.svg",
+      "/assets/webflow/brand/logo-on-dark.svg",
+      "/assets/webflow/brand/openhands-logo-mobile-mono.svg",
+      "/assets/webflow/brand/openhands-logo-mobile-on-dark.svg",
+      "/assets/webflow/icons/6908c8dd7162d7d09526a0fd_Slack_Technologies_Logo2.svg",
+      "/assets/webflow/icons/atlassian.svg",
+      "/assets/webflow/icons/github-brand.svg",
+      "/assets/webflow/icons/jira.svg",
+      "/assets/webflow/icons/linear.svg",
+      "/assets/webflow/icons/notion.svg",
+      "/assets/webflow/logos/690b9e5400fdae4c12eedd75_small-client-logo.svg",
+      "/assets/webflow/logos/69137e199ce2cb594b0210ab_google-ar211.svg",
+      "/assets/webflow/logos/69137e34e3a5ab71e37082a7_NVIDIA_logo1.svg",
+      "/assets/webflow/logos/69137e47b45195da10c50f49_apple-111.svg",
+      "/assets/webflow/logos/69137e5fa006d963a1d1904d_mongodb-ar211.svg",
+      "/assets/webflow/logos/69137e783790933dd06f9d59_Red_Hat_Logo_20191.svg",
+      "/assets/webflow/logos/69137eac8f27ca27f5e48420_Netflix_2015_logo1.svg",
+      "/assets/webflow/logos/69137ec5a6f77dd174e557ce_C3ai_logo1.svg",
+      "/assets/webflow/logos/69137f10c3975e28b3932320_Amazon_logo1.svg",
+      "/assets/webflow/logos/69137f2cb537758796a9dba1_Roche_Logo.svg"
+    ]
+  },
+  "kiro": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/kiro-color.svg",
+    "sha256": "4eae4d6e818da7342c32c7d443ab7c97b93c544db9af379d5b5bf7f0a3127d66",
+    "variant": "original color SVG",
+    "official_reference": "https://kiro.dev/",
+    "colors": [
+      "#000",
+      "#9046FF",
+      "#fff"
+    ],
+    "official_asset_candidates": [
+      "/apple-icon.png?4cefa8c54a20b098",
+      "/apple-icon.png?4cefa8c54a20b098\\",
+      "/favicon.ico",
+      "/icon.svg?fe599162bb293ea0",
+      "/icon.svg?fe599162bb293ea0\\",
+      "/icon1.png?e4fce51f5416a6d9",
+      "/icon1.png?e4fce51f5416a6d9\\",
+      "/icon2.png?0195f9ab35baaef8",
+      "/icon2.png?0195f9ab35baaef8\\",
+      "/icon3.png?96ebd13f5b35a9a9",
+      "/icon3.png?96ebd13f5b35a9a9\\",
+      "https:\\u002F\\u002Fkiro.dev\\u002Fapple-icon.png"
+    ]
+  },
+  "crush": {
+    "url": "https://stuff.charm.sh/crush/charm-crush.png",
+    "official_reference": "https://github.com/charmbracelet/crush",
+    "variant": "official README logo, proportional 160px WIC resample for small UI tiles; no recoloring",
+    "sha256": "e157a519fbe516512b65125d4ec2da40f860be7343d6de286854245b0cf091a7",
+    "original_sha256": "4bbd25b8d05d299da10363d8710bb64846d2d53175770ceeab15d0e6fc6065cd"
+  },
+  "trae": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/trae-color.svg",
+    "sha256": "e7aca314ce71b8fa0a7aece005d585772bac24266fc6688cf398e622d4acaf02",
+    "variant": "original color SVG",
+    "official_reference": "https://www.trae.ai/",
+    "colors": [
+      "#32F08C"
+    ],
+    "official_asset_candidates": [
+      "//lf16-web-neutral.traecdn.ai/obj/trae-ai-static/trae_website/favicon.png"
+    ]
+  },
+  "openai": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openai.svg",
+    "sha256": "a6f64c2670a20c03c134ae0ccf1dab4dfd817f10a41da21547f720c5c1fb6820",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://openai.com/brand/",
+    "colors": [
+      "#000000"
+    ],
+    "reference_fetch_error": "HTTP Error 403: Forbidden"
+  },
+  "anthropic": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/anthropic.svg",
+    "sha256": "153d6eca248c9192427ce2ade6d65185194187f439536fa75a8dc1f1f1baf09b",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://www.anthropic.com/company",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/favicon.ico",
+      "/images/icons/apple-touch-icon.png",
+      "/images/icons/favicon-32x32.png",
+      "/images/icons/safari-pinned-tab.svg"
+    ]
+  },
+  "grok": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/grok.svg",
+    "sha256": "70c65581a2f3e83944663c1813f5956da0fb808dc588c7c9688df140a8fe586f",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://grok.com/",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/images/apple-touch-icon.png",
+      "/images/favicon.ico",
+      "/images/favicon.svg",
+      "https://grok.com/icon-512x512.png"
+    ]
+  },
+  "mistral": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/mistral-color.svg",
+    "sha256": "722f74b289d95486b43662fe24fa883b333701296f618406cd0ed502299170b6",
+    "variant": "original color SVG",
+    "official_reference": "https://mistral.ai/",
+    "colors": [
+      "#E10500",
+      "#FA500F",
+      "#FF8205",
+      "#FFAF00"
+    ],
+    "official_asset_candidates": [
+      "/cms-media/api/media/file/Icon-L-Decorative-3.svg",
+      "/cms-media/api/media/file/Icon-L-Decorative-4.svg",
+      "/cms-media/api/media/file/Icon-Model-Codestral.svg",
+      "/cms-media/api/media/file/icon-factory.svg",
+      "/cms-media/api/media/file/icon-globe.svg",
+      "/cms-media/api/media/file/icon-m-book-red.svg",
+      "https://mistral.ai/images/logos/logo-mistral.svg"
+    ]
+  },
+  "cohere": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cohere-color.svg",
+    "sha256": "84d0ee3cbe66f030e5a18cb2c86da9166ab2137c7a98781693bb1fbf31e392b9",
+    "variant": "original color SVG",
+    "official_reference": "https://cohere.com/",
+    "colors": [
+      "#39594D",
+      "#D18EE2",
+      "#FF7759"
+    ],
+    "official_asset_candidates": [
+      "/apple-touch-icon.png",
+      "/favicon-16x16.png",
+      "/favicon-32x32.png",
+      "/logo.svg",
+      "/logo_mobile_dark.svg",
+      "/nav_icon.svg"
+    ]
+  },
+  "perplexity": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/perplexity-color.svg",
+    "sha256": "8353f3ab20822f1a933224b0ea32cc39f0c32d5740f4af8c254b0f418e0a3a70",
+    "variant": "original color SVG",
+    "official_reference": "https://www.perplexity.ai/",
+    "colors": [
+      "#22B8CD"
+    ],
+    "reference_fetch_error": "HTTP Error 403: Forbidden"
+  },
+  "groq": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/groq.svg",
+    "sha256": "e0ac18955e108fcfa8d9feb3e1b3e657f2086af60edb53179021293f70bf072c",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://groq.com/",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/apple-touch-icon.png",
+      "/favicon.ico",
+      "/favicon.svg"
+    ]
+  },
+  "together": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/together-color.svg",
+    "sha256": "27ccaf118a431c386b88418a34a4346afd9638dde10e3f2295db2eec1fa5898a",
+    "variant": "original color SVG",
+    "official_reference": "https://www.together.ai/",
+    "colors": [
+      "#CAAEF5",
+      "#EF2CC1",
+      "#FC4C02"
+    ],
+    "official_asset_candidates": [
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/699e382b218f39bfa0a115d9_favicon.png",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/699f2b0270e1f6b38123f6f9_cursor-logo.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69a59cff65ed0f267dd2fbe8_touchicon.png",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69aaa5310313790ada6393ec_together-ai-logo.png",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd282119ca80ff7892995a_icon-dark_clusters.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd28211c608d7834bbbee3_icon-dark_folder.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd28212ff8f08158f791f7_icon-dark_book.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd282151803013404915a5_icon-dark_fine-tuning.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd282179c4c1efd13fe444_icon-dark_dedicated-model-inference.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2821a70be145b49354ca_icon-dark_container.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2821c7b53faa139d7f98_icon-dark_evaluations.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2821c9afb5d3a0b18a86_icon-dark_cloud.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2821cb1a77aa43566b3b_icon-dark_demos.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2821cc4dac766f35d4d3_icon-dark_documentation.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2821e727251de375b23a_icon-dark_calendar.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd282253d88127466705de_icon-dark_sandbox.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2822bd43cb1f65fe8fb5_icon-dark_stack.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2822c64ca4e9ca401bc5_icon-dark_news.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2822cf32a0bc4b0dd54b_icon-dark_research.svg",
+      "https://cdn.prod.website-files.com/69654e88dce9154b5f1206dd/69dd2858bd43cb1f65fe955b_icon-dark_gpu.svg"
+    ]
+  },
+  "fireworks": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/fireworks-color.svg",
+    "sha256": "f1c4782b86bc03a36323fd68ad6cc376c6b2ebe57b701cc958ebd6b8d37effd6",
+    "variant": "original color SVG",
+    "official_reference": "https://fireworks.ai/",
+    "colors": [
+      "#5019C5"
+    ],
+    "official_asset_candidates": [
+      "/apple-icon.png?851b7c333784c47b",
+      "/apple-icon.png?851b7c333784c47b\\",
+      "/favicon.ico",
+      "/icon0.svg?e3d99deadffb6216",
+      "/icon0.svg?e3d99deadffb6216\\",
+      "/icon1.png?5430c244b88961c5",
+      "/icon1.png?5430c244b88961c5\\"
+    ]
+  },
+  "nvidia": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/nvidia-color.svg",
+    "sha256": "8c941e4eb8b782eccaaea1240c059d20be33ab8eda28d7c9ed9b53ac802fe683",
+    "variant": "original color SVG",
+    "official_reference": "https://www.nvidia.com/",
+    "colors": [
+      "#74B71B"
+    ],
+    "reference_fetch_error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+  },
+  "cerebras": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/cerebras-color.svg",
+    "sha256": "355c2225284cd06c9cf4246110b60cb21bc86039872981e1be6bb82deec2ffa7",
+    "variant": "original color SVG",
+    "official_reference": "https://www.cerebras.ai/",
+    "colors": [
+      "#F15A29"
+    ],
+    "official_asset_candidates": []
+  },
+  "sambanova": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/sambanova-color.svg",
+    "sha256": "411ab881318738b7689e5fc6c4e0879a22913aabb9bc2125e3fc03f24e3214d5",
+    "variant": "original color SVG",
+    "official_reference": "https://sambanova.ai/",
+    "colors": [
+      "#EE7624"
+    ],
+    "official_asset_candidates": [
+      "https://sambanova.ai/hs-fs/hubfs/hume-new-logo.png?width=134&amp;height=31&amp;name=hume-new-logo.png",
+      "https://sambanova.ai/hs-fs/hubfs/sn-new-gray-logo.png",
+      "https://sambanova.ai/hs-fs/hubfs/sn-new-gray-logo.png?width=1318&amp;height=289&amp;name=sn-new-gray-logo.png",
+      "https://sambanova.ai/hs-fs/hubfs/sn-new-gray-logo.png?width=210&amp;height=46&amp;name=sn-new-gray-logo.png",
+      "https://sambanova.ai/hubfs/maitai-logo.svg",
+      "https://sambanova.ai/hubfs/sambanova-favicon.png"
+    ]
+  },
+  "azure": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/azure-color.svg",
+    "sha256": "abc639d094593943c1b201270f4903c74d02d2e26acf26abf592a29c222c5181",
+    "variant": "original color SVG",
+    "official_reference": "https://azure.microsoft.com/",
+    "colors": [
+      "#0078D4",
+      "#0669BC",
+      "#114A8B",
+      "#2892DF",
+      "#3CCBF4"
+    ],
+    "official_asset_candidates": [
+      "/content/dam/microsoft/final/en-us/microsoft-brand/icons/AI-icon-white.svg",
+      "/favicon.ico?v2"
+    ]
+  },
+  "deepseek": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/deepseek-color.svg",
+    "sha256": "deba5f98a5c1796e20fcac3149bcd7eb8a32f0bdd04d048819400b1f28bd1439",
+    "variant": "original color SVG",
+    "official_reference": "https://www.deepseek.com/",
+    "colors": [
+      "#4D6BFE"
+    ],
+    "official_asset_candidates": [
+      "/favicon.ico"
+    ]
+  },
+  "glm": {
+    "url": "https://bigmodel.cn/static/images/favicon.png",
+    "official_reference": "https://bigmodel.cn/",
+    "variant": "official BigModel Z icon, white mark on dark rounded background, unaltered PNG",
+    "sha256": "94ff9c00af67774e5178428942a6e0a9952c7e2f3aba4c25f3b05c782841ee4c",
+    "colors": [
+      "#262626",
+      "#FFFFFF"
+    ]
+  },
+  "minimax": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/minimax-color.svg",
+    "sha256": "7f7187fa6d9b341ac5f22f6c5a970523afb439dc45566d64eb4f4b9b604d6b01",
+    "variant": "original color SVG",
+    "official_reference": "https://www.minimax.cn/",
+    "colors": [
+      "#E2167E",
+      "#FE603C"
+    ],
+    "official_asset_candidates": [
+      "/favicon.ico"
+    ]
+  },
+  "doubao": {
+    "url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/128x128.png",
+    "official_reference": "https://www.doubao.com/",
+    "variant": "official current Doubao app avatar, original color PNG, no recoloring",
+    "sha256": "bf8e41bcc864c00099a98080825ea42aba7cf481303dad3312f44a5da68c3f3b"
+  },
+  "baidu": {
+    "url": "https://psstatic.cdn.bcebos.com/basics/aichat/new_bra_2_1773714613000.png",
+    "official_reference": "https://wenxin.baidu.com/",
+    "discovery": "Official chat frontend search-HACt224x.js: brandLogoUrl; not marketing-site favicon",
+    "sha256": "182ac8527a2cf4331a82daa5327a84375ae09a571025bbdb5d8e9b5827f33aa5",
+    "variant": "Original official 186x63 transparent header PNG. Renderer displays left 63x63 symbol; blue circle with white waveform. Original bytes retained.",
+    "colors": [
+      "#5870F4",
+      "#5970F4",
+      "#FFFFFF"
+    ]
+  },
+  "hunyuan": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/hunyuan-color.svg",
+    "sha256": "510e7bb438506b5aadfaf8b9551d1606efd5b4171161a64a64204c72a453658a",
+    "variant": "original color SVG",
+    "official_reference": "https://hunyuan.tencent.com/",
+    "colors": [
+      "#0055E9",
+      "#00BCFF",
+      "#A8DFF5",
+      "#ECECEE"
+    ],
+    "official_asset_candidates": [
+      "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/favicon.png",
+      "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/logo.svg"
+    ]
+  },
+  "stepfun": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/stepfun-color.svg",
+    "sha256": "f55afc0e6004c8854f76bd5bbcc0fce9fc0ed9316691d54fb02d088c24fab40d",
+    "variant": "original color SVG",
+    "official_reference": "https://www.stepfun.com/",
+    "colors": [
+      "#0160FF",
+      "#01A9FF"
+    ],
+    "official_asset_candidates": [
+      "https://www.stepfun.com/step_favicon.svg"
+    ]
+  },
+  "yi": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/yi-color.svg",
+    "sha256": "d78b1ce0eeb7a7d1a6132785dfa0218be48d6d1ccd3751ca3f9240a2e3b38756",
+    "variant": "original color SVG",
+    "official_reference": "https://www.lingyiwanwu.com/",
+    "colors": [
+      "#00FF25"
+    ],
+    "official_asset_candidates": [
+      "./branding/apple-touch-icon.3bb243e8.png",
+      "./branding/favicon-32.727a432c.png",
+      "./branding/favicon.0fef830a.svg",
+      "./branding/favicon.849e398d.ico",
+      "./branding/logo.fb7ccad7.png",
+      "https://www.lingyiwanwu.com/branding/logo.fb7ccad7.png"
+    ]
+  },
+  "baichuan": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/baichuan-color.svg",
+    "sha256": "7d49311206402734850ed9dc112759780429bb363dcee31eccb5a92f428532a6",
+    "variant": "original color SVG",
+    "official_reference": "https://www.baichuan-ai.com/",
+    "colors": [
+      "#FEC13E",
+      "#FF6933"
+    ],
+    "official_asset_candidates": [
+      "/apple-touch-icon.png",
+      "/favicon-16x16.png",
+      "/favicon-32x32.png",
+      "/favicon.ico"
+    ]
+  },
+  "openrouter": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/openrouter-color.svg",
+    "sha256": "17bede1b89166f824ee06753dc526a3f5e18b769706deaab09d04a3a98de1a78",
+    "variant": "original color SVG",
+    "official_reference": "https://openrouter.ai/",
+    "colors": [
+      "#C8FF00"
+    ],
+    "official_asset_candidates": [
+      "/apple-touch-icon.png",
+      "/favicon/glyph.png",
+      "/images/icons/Anthropic.svg",
+      "/images/icons/Bedrock.svg",
+      "/images/icons/Cohere.png",
+      "/images/icons/DeepSeek.png",
+      "/images/icons/GoogleAIStudio.svg",
+      "/images/icons/GoogleGemini.svg",
+      "/images/icons/GoogleVertex.svg",
+      "/images/icons/Inception.svg",
+      "/images/icons/Liquid.png",
+      "/images/icons/Meta.png",
+      "/images/icons/Microsoft.svg",
+      "/images/icons/Mistral.png",
+      "/images/icons/MoonshotAI.png",
+      "/images/icons/OpenAI.svg",
+      "/images/icons/Perplexity.png",
+      "/images/icons/Qwen.png"
+    ]
+  },
+  "siliconflow": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/siliconcloud-color.svg",
+    "sha256": "a02d8d7ccb81739fbc720e2e5daaf149013dd5088605dc2dce1b71df0784d424",
+    "variant": "original color SVG",
+    "official_reference": "https://siliconflow.cn/",
+    "colors": [
+      "#6E29F6"
+    ],
+    "official_asset_candidates": [
+      "/logo-new.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/3/svgs/feature_icon_1.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/3/svgs/feature_icon_2.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/3/svgs/feature_icon_3.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/3/svgs/feature_icon_4.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/s2/s2-1.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/s2/s2-2.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/s3/icons/s3-1.svg",
+      "https://static01.siliconflow.cn/f/static/cn/home/s3/icons/s3-2.svg",
+      "https://static02.siliconflow.cn/f/static/cn/home/s2/s2-3.svg",
+      "https://static03.siliconflow.cn/f/static/cn/home/s2/s2-4.svg",
+      "https://www.siliconflow.cn/logo-new.svg"
+    ]
+  },
+  "ollama": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/ollama.svg",
+    "sha256": "25dcf23ad770e8900f163cc4281f65e5a8c3bb00e23b55411766b0cfff18aea0",
+    "variant": "original monochrome mark, black on light background",
+    "official_reference": "https://ollama.com/",
+    "colors": [
+      "#000000"
+    ],
+    "official_asset_candidates": [
+      "/public/android-chrome-icon-192x192.png",
+      "/public/android-chrome-icon-512x512.png",
+      "/public/apple-touch-icon.png",
+      "/public/icon-16x16.png",
+      "/public/icon-32x32.png",
+      "/public/icon-48x48.png",
+      "/public/icon-64x64.png",
+      "/public/logos/adobe.svg",
+      "/public/logos/apple.svg",
+      "/public/logos/ibm.svg",
+      "/public/logos/intel.svg",
+      "/public/logos/mercedes.svg",
+      "/public/logos/meta.svg",
+      "/public/logos/microsoft.svg",
+      "/public/logos/nasa.svg",
+      "/public/logos/netflix.svg",
+      "/public/logos/nike.svg",
+      "/public/logos/nvidia.svg",
+      "/public/logos/visa.svg"
+    ]
+  },
+  "lmstudio": {
+    "url": "https://lmstudio.ai/assets/marketing/brand/download/logos/lm-studio-icon-color.svg",
+    "official_reference": "https://lmstudio.ai/brand",
+    "variant": "official color SVG with its original sRGB fallback attributes; redundant display-p3 CSS removed for Direct2D",
+    "sha256": "a4fb043c7919ee401a5724677c05789e2978df529c3fa8dc4702f31fc35e071f",
+    "previous_recorded_sha256": "a08cdeaadecc9a4afddc889e29906541142704ca39c547c1bc674492cedeff1f",
+    "colors": [
+      "#4F13BE",
+      "#6E7EF3"
+    ]
+  },
+  "vllm": {
+    "url": "https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/vllm-color.svg",
+    "sha256": "3f837bad8d7f85d19e860a089639289ddd7492e67dc1ac7bd0f129f8f19b8ae6",
+    "variant": "original color SVG",
+    "official_reference": "https://vllm.ai/",
+    "colors": [
+      "#30A2FF",
+      "#FDB515"
+    ],
+    "official_asset_candidates": [
+      "/favicon.ico",
+      "/vLLM-Full-Dark-Mode-Logo.svg",
+      "/vLLM-Full-Logo.svg",
+      "/vLLM-Logo.png",
+      "/vLLM-Logo.svg"
+    ]
+  },
+  "zcode": {
+    "url": "https://zcode.z.ai/favicon-48x48.png?v=20260707-transparent",
+    "sha256": "15a7b9bf5beae276bc6c18e70e8d9a2c7988e0115a5374c40587fc7038c4f1ca",
+    "variant": "official website favicon; original black and white Z mark",
+    "official_reference": "https://zcode.z.ai/cn/docs/install",
+    "colors": [
+      "#ffffff",
+      "#242424"
+    ]
+  }
+}
